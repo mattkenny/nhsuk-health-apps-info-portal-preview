@@ -34,6 +34,12 @@ Use `.nhsuk-width-container-fluid` for a full width container. Documentation and
   }) }}
   ```
 
+- Example of social media open graph cards for Twitter and Facebook
+
+  Examples for [Twitter](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary.html) and [Facebook](https://developers.facebook.com/docs/sharing/webmasters/) have been added to the GitHub pages layout file and also to the [HTML page template](/docs/installation/installing-compiled.md#html-template).
+
+  The open graph default image has also been added to the `assets/logos` folder of the package.
+
 ## 2.0.0 - Mar 11, 2019
 
 :boom: **Breaking changes**

@@ -66,6 +66,21 @@ If you require any of this functionality, you should [install using npm](/docs/i
     <!--[if IE]><link rel="shortcut icon" href="assets/favicons/favicon.ico"><![endif]-->
     <link rel="apple-touch-icon" href="assets/favicons/apple-touch-icon.png">
     <link rel="icon" href="assets/favicons/favicon.png">
+
+    <!-- Social media cards -->
+    <!-- https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary.html -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@nhsuk" />
+    <meta name="twitter:title" content="NHS.UK" />
+    <meta name="twitter:description" content="Helping you take control of your health and wellbeing." />
+    <meta name="twitter:image" content="assets/logos/open-graph.png" />
+
+    <!-- https://developers.facebook.com/docs/sharing/webmasters/ -->
+    <meta property="og:url" content="https://www.nhs.uk/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="NHS.UK" />
+    <meta property="og:description" content="Helping you take control of your health and wellbeing." />
+    <meta property="og:image" content="assets/logos/open-graph.png" />
   </head>
 
   <body>
